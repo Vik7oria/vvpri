@@ -9,5 +9,6 @@ int main()
     printf("Enter B(integer):\n");
     scanf("%d", &B);
     printf("A + B = %d\n", A+B);
+    printf("A - B = %d\n", A-B);
     return 0;
 }
